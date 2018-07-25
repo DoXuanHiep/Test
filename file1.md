@@ -28,3 +28,9 @@ fwf
 <ul>
           <li> sdfdsfdsf </li>
 </ul>
+
+- Gạch đầu dòng thứ nhất
+  <ul>
+  <li>Thụt với đầu dòng 1</li>
+  <li>Thụt với đầu dòng 1</li>
+  </ul>
