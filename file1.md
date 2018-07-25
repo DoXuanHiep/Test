@@ -30,7 +30,7 @@ fwf
  </ul>
 
 - Gạch đầu dòng thứ nhất
-  <ul>
+        <ul>
   <li>Thụt với đầu dòng 1</li>
   <li>Thụt với đầu dòng 1</li>
-  </ul>
+        </ul>
