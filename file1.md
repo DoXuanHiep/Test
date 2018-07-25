@@ -21,16 +21,7 @@ fwf
           <li>dsfdsf</li>
 </ul>  
 
-<li>ddsfds</li>
 
-
-- fdsfdsfdsfs
- <ul>
- <li> sdfdsfdsf </li>
- </ul>
-
-\- Gạch đầu dòng thứ nhất
-        <ul>
-        <li>Thụt với đầu dòng 1</li>
-        <li>Thụt với đầu dòng 1</li>
-        </ul>
+- Son
+- Hiep
+- Nam
