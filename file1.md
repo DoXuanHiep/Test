@@ -25,9 +25,9 @@ fwf
 
 
 - fdsfdsfdsfs
-                   <ul>
+ <ul>
  <li> sdfdsfdsf </li>
-                   </ul>
+ </ul>
 
 - Gạch đầu dòng thứ nhất
         <ul>
