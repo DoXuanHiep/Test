@@ -2,7 +2,7 @@
 hiep
 hiep
 - ga
-<ul><li>Thụt với đầu dòng 1</li></ul>
+<li>Thụt với đầu dòng 1</li>
           
 | Cột 1| Hàng 1 | Cột 2 | Cột 3| Cột 4 |
 |---|---|---|---|---|
